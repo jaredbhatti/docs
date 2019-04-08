@@ -14,11 +14,14 @@ Installing on Google Cloud
 
   If you are new to Google Cloud, you will need to `create a Google Cloud Platform project <https://console.cloud.google.com/cloud-resource-manager>`_ and make sure `billing is enabled <https://cloud.google.com/billing/docs/how-to/modify-project>`_. 
 
+.. tip::
+
+  Google Cloud offers a `Free Tier<https://cloud.google.com/free/>`_ of service for Compute Engine, limited to certain regions and instance sizes. For more information read the `Free Tier FAQ<https://cloud.google.com/free/docs/gcp-free-tier>`_. 
 
 Create an instance
 ------------------
 
-1. Go to the `GCP Dashboard <https://console.cloud.google.com/compute/instances>`_.
+1. Go to the `GCP Compute Engine Dashboard <https://console.cloud.google.com/compute/instances>`_.
 
 2. Click on :guilabel:`Create`.
 
